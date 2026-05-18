@@ -1,0 +1,9 @@
+{
+  "appId": "com.incidentmap.app",
+  "appName": "Incident Map",
+  "webDir": "www",
+  "server": {
+    "url": "https://incidentmap.kesug.com/incident_system",
+    "cleartext": true
+  }
+}
